@@ -1,0 +1,5 @@
+# Lets GitHub Pages publish README.md as the privacy policy page for the app.
+# Turn it on once in Settings -> Pages -> Build and deployment -> Deploy from a branch -> main / (root).
+title: Muslim Kids Bedtime Duas & Stories
+description: Privacy policy
+theme: jekyll-theme-minimal
